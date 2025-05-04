@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RJSportfolio/static/css/main.2596aaa6.css",
+    "main.js": "/RJSportfolio/static/js/main.ace8feae.js",
+    "static/js/564.f2b3c5fe.chunk.js": "/RJSportfolio/static/js/564.f2b3c5fe.chunk.js",
+    "static/js/3.0b699837.chunk.js": "/RJSportfolio/static/js/3.0b699837.chunk.js",
+    "static/media/Sofilight.png": "/RJSportfolio/static/media/Sofilight.569dc1780a467e1eb009.png",
+    "static/media/Beton.png": "/RJSportfolio/static/media/Beton.56478524585d6eb21d7e.png",
+    "static/media/profile.png": "/RJSportfolio/static/media/profile.78a580d38061efb670bc.png",
+    "static/media/Ceevisor.png": "/RJSportfolio/static/media/Ceevisor.c962a079d4b9ecb8d365.png",
+    "static/media/AvtoHype.png": "/RJSportfolio/static/media/AvtoHype.3d915ee52bd6f25eef90.png",
+    "static/media/react-AfghanKazan.png": "/RJSportfolio/static/media/react-AfghanKazan.7527418e1092dc93bcce.png",
+    "static/media/Vladyslav_Zhyokin_Resume.pdf": "/RJSportfolio/static/media/Vladyslav_Zhyokin_Resume.b47a2c30aad23fef3d3f.pdf",
+    "index.html": "/RJSportfolio/index.html",
+    "main.2596aaa6.css.map": "/RJSportfolio/static/css/main.2596aaa6.css.map",
+    "main.ace8feae.js.map": "/RJSportfolio/static/js/main.ace8feae.js.map",
+    "564.f2b3c5fe.chunk.js.map": "/RJSportfolio/static/js/564.f2b3c5fe.chunk.js.map",
+    "3.0b699837.chunk.js.map": "/RJSportfolio/static/js/3.0b699837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2596aaa6.css",
+    "static/js/main.ace8feae.js"
+  ]
+}
