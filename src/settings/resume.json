@@ -1,0 +1,161 @@
+{
+    "basics": {
+        "name": "Vladyslav Zhyokin",
+        "label": "Web Developer",
+        "email": "vzhyokin@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Web",
+        "job2": "Developer",
+        "description": "Hello! I'm Vladyslav! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in Wroclaw, Poland.",
+        "keywords": "personal,website,AfghanKazan,webdev,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Wroclaw",
+            "country": "Poland",
+            "countryCode": "PL",
+            "region": "Dolnośląskie"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "vzhyokin@gmail.com",
+                "url": "mailto:vzhyokin@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "vladyslavzhyokin",
+                "url": "https://www.linkedin.com/in/vladyslavzhyokin/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "VladZ11",
+                "url": "https://github.com/VladZ11",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "WhatsApp",
+                "username": "VladZ11",
+                "url": "https://wa.me/48729431915",
+                "x_icon": "fab fa-whatsapp"
+            },
+            {
+                "network": "Viber",
+                "username": "VladZ11",
+                "url": "viber://chat?number=%2B48729431915",
+                "x_icon": "fab fa-viber"
+            },
+            {
+                "network": "Telegram",
+                "username": "zhiokinvlad",
+                "url": "https://t.me/zhiokinvlad",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "VladZ11#9142",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            },
+            {
+                "network": "Phone",
+                "username": "+48 729 431 915",
+                "url": "tel:+48729431915",
+                "x_icon": "fas fa-phone"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Polish",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "Ukrainian",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Russian",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
